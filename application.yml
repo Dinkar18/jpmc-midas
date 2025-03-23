@@ -1,0 +1,4 @@
+server:
+  port: 8081
+general:
+      kafka-topic: my-topic-name
